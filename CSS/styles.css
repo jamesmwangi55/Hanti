@@ -1,0 +1,15 @@
+h1 {
+  color: orange;
+  text-align: center;
+}
+h2 {
+  color: #F39581;
+  font-style: italic;
+  text-align: center;
+}
+p {
+  fot-family: sans-serif;
+}
+ul{
+  line-height: 40px;
+}
